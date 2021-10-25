@@ -36,7 +36,7 @@ est possible). L’ensemble V des variables qui nous intéressent contient :
 * âge des malfaiteurs ; 
 * état dans lequel le fait divers a eu lieu. 
  
-### Questions :  
+### Questions  
 
 *1. Est-ce qu’il y a des corrélations (linéaires) entre les variables de V ? 
  
