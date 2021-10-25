@@ -19,7 +19,7 @@
   </ol>
 </details>
 
-
+<a href="https://codepen.io/mindras/pen/jOMgWzm"> View MAP </a>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
